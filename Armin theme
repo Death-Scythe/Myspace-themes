@@ -1,0 +1,155 @@
+.url {
+    background: url(https://www.pngkey.com/png/full/197-1972479_attack-on-titan-junior-high-aot-junior-high.png) no-repeat;
+    position: fixed;
+    right: 0;
+    bottom: 0px;
+    color: #ffffff00;
+    background-size: 300px;
+    height: 270px;
+    width: 270px;
+    border: none;
+    box-shadow: none;
+    filter: drop-shadow(8px 9px 15px #00000044);
+    z-index: 1000;
+    font-size: 0px;
+    opacity: 1;
+}
+.tableRight {
+    width: 75%;
+    background-image:url(https://i.pinimg.com/originals/89/33/84/893384547fb61a11e079e784d6af3b13.gif);
+    padding: 10px;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+}
+.tableLeft {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoXcFxStQjtlyomU3G2JWtAdpnaNH4LoBe1Q&usqp=CAU);
+    width: 25%;
+    padding: 10px;
+    vertical-align: top;
+    overflow: hidden;
+}
+body {
+    background-image:url(https://i.pinimg.com/originals/16/ba/f0/16baf034ce5d665913153ea3686bda0d.gif);
+    font-family: Courier;
+    padding-top: 45px;
+    font-size: 15px;
+}
+.boxHead {
+    background-image:url(https://data.whicdn.com/images/333541234/original.gif);
+    color: white;
+    padding: 3px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+}
+.fwiendFace img {
+    border: 2px solid #1ad5ff;
+    border-radius: 50%;
+    background-position: center;
+    display: absolute;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+a:-webkit-any-link {
+    color: #b2e5eb;
+    cursor: pointer;
+}
+.tableLeft img {
+    border: 2px solid #1ad5ff;
+    border-radius: 50%;
+    background-position: center;
+    display: absolute;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+.rightHead {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_JLZ7kATA-vlDJyYK51cbYDUqZWIx8_lLQ&usqp=CAU);
+    color: #dce0ff;
+    padding-left: 4px;
+}
+h4 {
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+.player {
+    padding: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-image:url(https://64.media.tumblr.com/ea257d3b49574b8501eea3a76bd4e06a/tumblr_opu06kiosG1wppsoyo1_500.gif);
+    color: #000;
+    width: calc(100% - 10px );
+    border: 1px solid #c9faff;
+}
+#commentInput {
+   background-image:url(https://64.media.tumblr.com/80337b3ae8778c64d5d46ca370b3db86/tumblr_o4pk9rFCas1rzen6uo1_400.gifv); 
+   width: calc( 100% - 6px );
+    margin: 0;
+    margin-top: 10px;
+    height: 100px;
+}
+#avatar {
+    border-radius: 100px;
+    border: 3px solid #0ef9f9;
+}
+div#header {
+    background-image:url(https://64.media.tumblr.com/eb44401552bc3afeb046041edaccaf94/e60d9af4f53d80d4-e3/s640x960/af2e6987b7ce21fe93e6285549aaa6acd444b0e7.gifv);
+    font-family: "Courier";
+    text-align: center;
+}
+div#hSub {
+    background: #bddeff;
+    font-family: "Courier";
+    text-align:center;
+}
+.blog {
+    background-image:url(https://i.pinimg.com/originals/16/ba/f0/16baf034ce5d665913153ea3686bda0d.gif);
+    padding: 15px;
+}
+#add {
+    background-image: url();
+    font-size: 0px;
+}
+#add::after {
+    content: "Be my friend!";
+    font-size: 13px;
+    color: black;
+}
+#sMsg {
+    background-image: url();
+    font-size: 0;
+}
+#sMsg::after {
+    content: "Talk to me!";
+    font-size: 13px;
+    color: black;
+}
+#report {
+    background-image: url();
+    font-size: 0;
+}
+#report::after {
+    content: "O-oh sorry :c";
+    font-size: 13px;
+    color: black;
+}
+#block {
+    background-repeat: no-repeat;
+    background-image: url();
+    font-size: 0;
+}
+#block::after {
+    content: "bye :(";
+    font-size: 13px;
+    color: black;
+}
+.extended {
+    background-color: #898cd2;
+    border: 1px double black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.topRight > .extended.box::after {
+    font-size: 17px !important;
+    content: "Hello(≧∇≦)ﾉ";
+}
