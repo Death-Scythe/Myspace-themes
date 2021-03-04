@@ -1,0 +1,105 @@
+body {
+    background-image:url(https://i.pinimg.com/originals/33/34/d4/3334d4e4d6a5455920af2b259746e6d1.gif);
+    font-family: Arial;
+    padding-top: 45px;
+    font-size: 15px;
+    color:white;
+}
+.tableRight {
+    width: 75%;
+    background-image:url(https://media.tenor.com/images/353c7c3a34cc6f89517d8d872a9926e9/tenor.gif);
+    padding: 10px;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+}
+.tableLeft {
+    background-image:url(https://i.pinimg.com/originals/5c/43/d2/5c43d280ddfbd4a1b4c571874e699f8d.gif);
+    width: 25%;
+    padding: 10px;
+    vertical-align: top;
+    overflow: hidden;
+}
+.boxHead {
+    background-image:url(https://i.pinimg.com/originals/52/41/96/5241960f0406205ca0eea61dce91e90f.gif);
+    color: white;
+    padding: 3px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+}
+.blog {
+    background-image:url(https://i.pinimg.com/originals/52/41/96/5241960f0406205ca0eea61dce91e90f.gif);
+    padding: 15px;
+}
+.rightHead {
+    background: #f5cbff;
+    color: #000000;
+    padding-left: 4px;
+}
+.player {
+    padding: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #ffc9fb;
+    color: #000;
+    width: calc(100% - 10px );
+    border: 1px solid #000;
+}
+:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
+h4 {
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+.boxButton {
+    display: inline-block;
+    width: calc( 49% - 60px );
+    padding-left: 30px;
+    height: 24px;
+    font-size: small;
+    color: #ffffff;
+    padding-top: 7px;
+}
+div#header {
+    background-color: #fba9c9;
+    font-family: "arial";
+    text-align: center;
+}
+div#hSub {
+    background: #ffd5f0;
+    font-family: "arial";
+    text-align:center;
+}
+#avatar {
+    border-radius: 100px;
+    border: 3px solid #fba9c9;
+}
+.avatar {
+    width: 200px;
+    margin-right: 20px;
+    cursor: zoom-in;
+    image-orientation: from-image;
+}
+img {
+    image-rendering: initial;
+}
+.tableLeft img {
+    border: 2px solid #fccfff;
+    border-radius: 50%;
+    background-position: center;
+    display: absolute;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+.fwiendFace img {
+    border: 2px solid #ffc0c0;
+    border-radius: 50%;
+    background-position: center;
+    display: absolute;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
