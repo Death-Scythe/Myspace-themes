@@ -1,0 +1,86 @@
+body {
+    background-image:url(https://i.pinimg.com/originals/14/e1/ea/14e1ea901ba7ff9d83cfbb7c8a78312c.jpg);
+    font-family: comic sans;
+    padding-top: 45px;
+    font-size: 15px;
+    color:black;
+}
+.tableRight {
+    width: 75%;
+    background-image:url(https://i.pinimg.com/originals/2b/44/9d/2b449df867663f944dca2d03e391aa96.jpg);
+    padding: 10px;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+}
+.tableLeft {
+    background: #f9d1dd;
+    width: 25%;
+    padding: 10px;
+    vertical-align: top;
+    overflow: hidden;
+}
+.boxHead {
+    background: #ffa4bd;
+    color: white;
+    padding: 3px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+}
+.rightHead {
+    background: #fda5be;
+    color: #ffeaf1;
+    padding-left: 4px;
+}
+h4 {
+    color: #ffa4bd;
+    margin-bottom: 0px;
+}
+a:-webkit-any-link {
+    color: pink;
+    cursor: pointer;
+    text-decoration: none;
+}
+.player {
+    padding: 4px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #ffc1d4;
+    color: #fff;
+    width: calc(100% - 10px );
+    border: 1px solid #fca4bd;
+}
+div#header {
+    background-color: pink;
+    background-position: 0px -400px;
+    font-family: "comic sans";
+    background-size: 30%;
+    background-repeat: repeat;
+}
+div#hSub {
+    color: white !important;
+    background-image: url(https://i.pinimg.com/originals/5a/c4/1b/5ac41b77cdb7bcd0b3bf43c55a6a72d6.gif);
+    text-align: center;
+    font-family: "comic sans";
+}
+.fwiendFace img {
+    border: 2px solid black;
+    border-radius: 50%;
+    background-position: center;
+    display: absolute;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+.tableLeft img {
+    border: 2px solid black;
+    border-radius: 50%;
+    background-position: center;
+    display: absolute;
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+}
+#avatar {
+    border-radius: 100px;
+    border: 3px solid #000;
+}
