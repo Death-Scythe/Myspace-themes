@@ -1,9 +1,10 @@
-body {
-    background-image:url(https://lh3.googleusercontent.com/proxy/XtF0ZUeMgBhIIZn5pMFpksKMmOVa0gvoPnUYJE9G8SiSJErtiO0Lr3YRIt0twDGzwruae-n8WZVpAQoIkju8yi0APaIrt2RA5WcDOCPBDqkpYTiTsrRAci4n9-9EqrWDxenjN0HjpPobkAamNH0);
+
+    body {
+    background-image:url(https://i.pinimg.com/originals/18/a5/30/18a530e700a63758f6c45923bd31115e.gif);
     font-family: Arial;
     padding-top: 45px;
     font-size: 15px;
-     color:dark red;
+     color: black;
 }
 .short {
     background-image:url(https://i.pinimg.com/originals/50/74/ea/5074ead53693fc6b9525243049d65aa4.gif);
@@ -61,7 +62,7 @@ h4 {
     overflow: hidden;
 }
 a:-webkit-any-link {
-    color: red;
+    color: black;
     cursor: pointer;
     text-decoration: underline;
 }
@@ -110,6 +111,6 @@ div#hSub {
     border: 3px solid #fff;
 }
 .blog {
-    background-image:url(https://i.pinimg.com/originals/50/74/ea/5074ead53693fc6b9525243049d65aa4.gif);   
-   padding: 15px;
+    background-image:url(https://i.pinimg.com/originals/50/74/ea/5074ead53693fc6b9525243049d65aa4.gif);
+    padding: 15px;
 }
