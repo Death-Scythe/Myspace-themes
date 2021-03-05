@@ -110,6 +110,6 @@ div#hSub {
     border: 3px solid #fff;
 }
 .blog {
-    background-color: #ff02e0;
-    padding: 15px;
+    background-image:url(https://i.pinimg.com/originals/50/74/ea/5074ead53693fc6b9525243049d65aa4.gif);   
+   padding: 15px;
 }
